@@ -1,0 +1,47 @@
+1. Entrada y salida
+Ejercicio 1:
+Escribe un programa que solicite al usuario su nombre y edad, y luego muestre un mensaje con esa
+información en el formato:"Hola, [nombre]. Tienes [edad] años."
+
+Ejercicio 2:
+Crea un programa que lea dos números ingresados por el usuario y muestre en pantalla la suma, resta,
+multiplicación y división de ambos.
+
+2. Estructuras condicionales
+Ejercicio 3:
+Escribe un programa que pida al usuario un número e indique si es positivo, negativo o cero.
+
+Ejercicio 4:
+Crea un programa que solicite tres números y determine cuál es el mayor
+
+3. Estructuras de repetición
+Ejercicio 5:
+Escribe un programa que muestre los números del 1 al 10 utilizando un bucle while.
+
+Ejercicio 6:
+Crea un programa que solicite al usuario un número entero positivo y muestre su tabla de multiplicar del 1
+al 10 utilizando un bucle for.
+
+4. Listas
+Ejercicio 7:
+Crea un programa que solicite al usuario 5 números y los almacene en una lista. Luego, muestra la lista y
+la suma de todos sus elementos.
+
+5. Tuplas
+Ejercicio 8:
+Define una tupla con los nombres de los meses del año. Luego, solicita al usuario un número del 1 al 12 y
+muestra el nombre del mes correspondiente.
+
+6. Diccionarios
+Ejercicio 9:
+Crea un diccionario donde las claves sean nombres de estudiantes y los valores sean sus notas. Luego,
+solicita un nombre al usuario e indica la nota correspondiente.
+
+7. Tkinter
+Ejercicio 10:
+Crea una interfaz gráfica con Tkinter que contenga un botón. Al hacer clic en el botón, se debe abrir la
+calculadora de Windows (calc.exe).
+
+8. Clonar un repositorio de GitHub
+9. Programar un juego con Pygame usando ChatGPT
+10. Cargar los trabajos en GitHub y entregar el enlace en la plataforma Mbo’eLab
